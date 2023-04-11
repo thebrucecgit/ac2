@@ -62,7 +62,7 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <mainClass>es.ucm.fdi.ac.Main</mainClass>
+                            <mainClass>es.ucm.fdi.ac.CommandLineMain</mainClass>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                         </manifest>
                         <manifestEntries>
